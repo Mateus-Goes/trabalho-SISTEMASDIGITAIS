@@ -41,8 +41,6 @@ O relógio digital CMOS foi construído utilizando componentes da família 4000.
 - 4511 (Decodificador BCD para 7 segmentos)
 - Displays de 7 segmentos
 
-### Documentação
-Para mais detalhes, acesse a documentação completa [aqui](Parte2/RelogioDigitalCMOS.pdf).
 
 ## Contador BCD em Verilog
 ### Descrição
