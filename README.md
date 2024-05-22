@@ -26,8 +26,6 @@ O relógio digital TTL foi construído utilizando componentes da família 74LS00
 - 74LS47
 - Displays de 7 segmentos
 
-### Documentação
-Para mais detalhes, acesse a documentação completa [aqui](Parte1/RelogioDigitalTTL-TrabalhoSD.pdf).
 
 ## Relógio Digital CMOS
 ### Descrição
@@ -56,15 +54,6 @@ Implementação de um contador BCD (de 000 até 999) utilizando Verilog HDL. Est
 - `ssd_digit.v`: Decodificador de 7 segmentos.
 - `top.v`: Entidade de nível superior que integra todos os módulos.
 
-### Documentação
-Para mais detalhes, acesse a documentação completa [aqui](Verilog/TFContadorDigitalVerilog.pdf).
-
-## Como Executar
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-2. Navegue até o diretório do projeto desejado e siga as instruções específicas de cada projeto contidas na documentação.
 
 ## Contribuidores
 - Mateus Curtolo de Goes
@@ -73,6 +62,4 @@ Para mais detalhes, acesse a documentação completa [aqui](Verilog/TFContadorDi
 - Nicolas Cruz Caldeira
 - Olin Medeiros Costa
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
